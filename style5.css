@@ -1,0 +1,20 @@
+/* styles.css */
+
+body {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    margin: 0;
+    padding: 0;
+     background-image: url("../../Documents/Unnamed Site 2/Screenshot 2024-11-06 203344.png");
+}
+
+header {
+   background-image: url("../../Documents/Unnamed Site 2/Screenshot 2024-11-06 203344.png");
+    color: black;
+    padding: 15px;
+    text-align: center;
+ 
+}
+footer{
+	background-color: black;
+}
+
